@@ -38,6 +38,8 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
+Application screenhot:
+![JATE](screenshot.png)
 
 Deployment:
 https://murmuring-journey-83808.herokuapp.com/
